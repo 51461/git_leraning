@@ -1,2 +1,2 @@
 Hello World!
-Hello,CGB 1902!
+Hello,CGB 1902
